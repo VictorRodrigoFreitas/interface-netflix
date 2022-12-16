@@ -1,3 +1,3 @@
 # Interface Netflix
  - Recriando Interface Netflix <br>
- - [Clique para ver](https://rodriwho.github.io/interface-netflix/index.html)
+ - [Clique para ver](https://victorrodrigofreitas.github.io/interface-netflix/)
